@@ -35,7 +35,7 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 <br>
 [Accounting Simulator](https://chat.openai.com/g/g-K2HxhpHuC-accounting-simulator)
 <br>
-[Areospace Simulator](https://chat.openai.com/g/g-s2W0IfFR6-aerospace-simulator)
+[Aerospace Simulator](https://chat.openai.com/g/g-s2W0IfFR6-aerospace-simulator)
 <br>
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
