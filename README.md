@@ -6,7 +6,7 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 
 #
 
-> Sourceduty has built 50 custom GPT simulators to date.
+> Sourceduty has built 51 custom GPT simulators to date.
 
 #
 ### Related Links
