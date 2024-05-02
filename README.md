@@ -98,6 +98,9 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Radio Simulator](https://chat.openai.com/g/g-C6JfFmHnG-radio-simulator)
 <br>
 [Internet Simulator](https://chat.openai.com/g/g-0lDhHX6AP-internet-simulator)
+<br>
+[Math Model Simulator](https://chat.openai.com/g/g-NRMiEHlzS-math-model-simulator)
+<br>
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
