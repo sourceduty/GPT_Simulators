@@ -128,6 +128,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Batch File Simulator](https://chatgpt.com/g/g-blvvJBL25-batch-file-simulator)
 <br>
 [Biological Simulation](https://chatgpt.com/g/g-kO0vMMo1M-biological-simulator)
+<br>
+[History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
