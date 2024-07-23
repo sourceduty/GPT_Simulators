@@ -12,7 +12,7 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 
 <div align="center">
 
-| Sourceduty currently has `69` custom built simulation GPTs listed below. |
+| Sourceduty currently has `70` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -144,6 +144,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Economy Simulator](https://chatgpt.com/g/g-S3MAXtBUv-economy-simulator)
 <br>
 [Burj Khalifa Simulator](https://github.com/sourceduty/Burj_Khalifa_Simulator)
+<br>
+[UN Simulator](https://github.com/sourceduty/UN_Simulator)
 
 #
 ### Related Links
