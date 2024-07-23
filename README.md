@@ -6,7 +6,7 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 
 #
 
-| Sourceduty currently has `68` custom built simulation GPTs listed below |
+| Sourceduty currently has `68` custom built simulation GPTs listed below. |
 |-|
 
 #
