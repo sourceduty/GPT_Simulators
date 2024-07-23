@@ -1,4 +1,8 @@
-![Simulate](https://github.com/sourceduty/AI_Simulation/assets/123030236/76551b7a-e866-453d-aa60-49f72d0386a4)
+![Simulation](https://github.com/user-attachments/assets/d55d9b0c-a9e7-41fb-aa0c-c5370f12157b)
+
+> Custom GPT simulators for ChatGPT.
+
+#
 
 Simulations using ChatGPT and other AI technologies offer a unique and powerful tool for exploring complex scenarios, modeling human behavior, and testing theories across various disciplines. By leveraging the natural language processing capabilities of ChatGPT, researchers and developers can create interactive environments where AI-driven characters respond and behave in realistic ways based on the inputs they receive. This allows for the simulation of social interactions, decision-making processes, and even market dynamics without the need for real human participants. Such simulations are particularly valuable in educational settings, where they can be used to enhance learning experiences by engaging students in role-playing activities or complex problem-solving tasks.
 
