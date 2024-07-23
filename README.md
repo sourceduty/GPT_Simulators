@@ -143,5 +143,10 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 <br>
 [Economy Simulator](https://chatgpt.com/g/g-S3MAXtBUv-economy-simulator)
 
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
