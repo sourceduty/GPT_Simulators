@@ -158,6 +158,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
 <br>
 [Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
+<br>
+[OBD2 Simulator](https://github.com/sourceduty/OBD2_Simulator)
 
 #
 ### Related Links
