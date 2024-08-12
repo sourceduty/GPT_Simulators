@@ -160,6 +160,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
 <br>
 [OBD2 Simulator](https://github.com/sourceduty/OBD2_Simulator)
+<br>
+[Ship Fleet and Asset Simulator](https://github.com/sourceduty/Ship_Fleet-Asset_Simulator)
 
 #
 ### Related Links
