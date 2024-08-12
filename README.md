@@ -12,7 +12,7 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 
 <div align="center">
 
-| Sourceduty currently has `77` custom built simulation GPTs listed below. |
+| Sourceduty currently has `78` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -162,6 +162,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [OBD2 Simulator](https://github.com/sourceduty/OBD2_Simulator)
 <br>
 [Ship Fleet and Asset Simulator](https://github.com/sourceduty/Ship_Fleet-Asset_Simulator)
+<br>
+[Cargowise Simulator](https://github.com/sourceduty/Cargowise_Simulator)
 
 #
 ### Related Links
