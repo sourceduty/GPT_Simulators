@@ -12,7 +12,7 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 
 <div align="center">
 
-| Sourceduty currently has `85` custom built simulation GPTs listed below. |
+| Sourceduty currently has `86` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -180,6 +180,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Apple II Sumlator](https://chatgpt.com/g/g-ci1HVmwRL-apple-ii-simulator)
 <br>
 [Trivia Showdown](https://chatgpt.com/g/g-zkcmBhM5B-trivia-showdown)
+<br>
+[Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)
 
 #
 ### Related Links
