@@ -168,6 +168,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Tractor Interface](https://github.com/sourceduty/Tractor_Interface)
 <br>
 [Space Terminal](https://github.com/sourceduty/Space_Terminal)
+<br>
+[Combinatorics Simulator](https://chatgpt.com/g/g-zGMgmTVdX-combinatorics-simulator)
 
 #
 ### Related Links
