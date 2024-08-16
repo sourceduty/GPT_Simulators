@@ -184,6 +184,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)
 <br>
 [Automation Sim](https://chatgpt.com/g/g-MAgEwBC4g-automation-sim)
+<br>
+[Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
 
 #
 ### Related Links
