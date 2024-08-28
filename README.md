@@ -12,7 +12,7 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 
 <div align="center">
 
-| Sourceduty currently has `94` custom built simulation GPTs listed below. |
+| Sourceduty currently has `95` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -198,6 +198,8 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 [Ion Simulator](https://github.com/sourceduty/Ion_Simulator)
 <br>
 [Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
+<br>
+[Virtual HPC Simulator](https://github.com/sourceduty/Virtual_HPC_Simulator)
 
 #
 ### Related Links
