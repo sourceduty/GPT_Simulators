@@ -209,7 +209,7 @@ Moreover, the use of AI in simulations extends beyond linguistic models to inclu
 <br>
 [Trump Simulator](https://github.com/sourceduty/Trump_Simulator)
 <br>
-[Biden Simulator](https://chatgpt.com/g/g-Zx5WZgyeY-biden-simulator)
+[Biden Simulator](https://github.com/sourceduty/Biden_Simulator)
 
 #
 ### Related Links
