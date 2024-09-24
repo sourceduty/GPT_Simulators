@@ -231,6 +231,8 @@ In contrast, games that employ emulation aim to replicate specific actions, meth
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Image Emulator](https://github.com/sourceduty/Image_Emulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
