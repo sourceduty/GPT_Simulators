@@ -33,7 +33,7 @@ In contrast, emulation is typically confined to replicating an established syste
 
 <div align="center">
 
-| Sourceduty currently has `104` custom built simulation GPTs listed below. |
+| Sourceduty currently has `105` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -239,6 +239,8 @@ In contrast, emulation is typically confined to replicating an established syste
 [Pi OS Simulator](https://github.com/sourceduty/Pi_OS_Simulator)
 <br>
 [Amazonian](https://github.com/sourceduty/Amazonian)
+<br>
+[EV Simulator](https://github.com/sourceduty/EV_Simulator)
 
 #
 ### Related Links
