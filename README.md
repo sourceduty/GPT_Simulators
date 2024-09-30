@@ -33,7 +33,7 @@ In contrast, emulation is typically confined to replicating an established syste
 
 <div align="center">
 
-| Sourceduty currently has `108` custom built simulation GPTs listed below. |
+| Sourceduty currently has `109` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -247,6 +247,8 @@ In contrast, emulation is typically confined to replicating an established syste
 [Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
 <br>
 [Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
+<br>
+[Ship Captain Simulator](https://github.com/sourceduty/Ship_Captain_Simulator)
 
 #
 ### Related Links
