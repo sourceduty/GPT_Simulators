@@ -45,7 +45,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 
 <div align="center">
 
-| Sourceduty currently has `109` custom built simulation GPTs listed below. |
+| Sourceduty currently has `110` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -261,6 +261,8 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 [Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
 <br>
 [Ship Captain Simulator](https://github.com/sourceduty/Ship_Captain_Simulator)
+<br>
+[Titanic Simulator](https://github.com/sourceduty/Titanic_Simulator)
 
 #
 ### Related Links
