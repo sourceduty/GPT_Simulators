@@ -45,7 +45,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 
 <div align="center">
 
-| Sourceduty currently has `111` custom built simulation GPTs listed below. |
+| Sourceduty currently has `112` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -265,6 +265,8 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 [Titanic Simulator](https://github.com/sourceduty/Titanic_Simulator)
 <br>
 [Skynet Simulator](https://github.com/sourceduty/Skynet_Simulator)
+<br>
+[Geometry Simulator](https://github.com/sourceduty/Geometry_Simulator)
 
 #
 ### Related Links
