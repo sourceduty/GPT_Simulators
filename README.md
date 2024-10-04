@@ -45,7 +45,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 
 <div align="center">
 
-| Sourceduty currently has `113` custom built simulation GPTs listed below. |
+| Sourceduty currently has `112` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -239,8 +239,6 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 [Mechanical Simulator](https://github.com/sourceduty/Mechanical_Simulator)
 <br>
 [Neurorobotic Simulator](https://chatgpt.com/g/g-jvs99FMz2-neurorobotic-simulator)
-<br>
-[Trump Simulator](https://github.com/sourceduty/Trump_Simulator)
 <br>
 [Biden Simulator](https://github.com/sourceduty/Biden_Simulator)
 <br>
