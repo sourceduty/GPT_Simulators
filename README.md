@@ -276,6 +276,10 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Image Emulator](https://github.com/sourceduty/Image_Emulator)
+<br>
+[Document Emulator](https://github.com/sourceduty/Document_Emulator)
+<br>
+[Text Emulator](https://github.com/sourceduty/Text_Emulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
