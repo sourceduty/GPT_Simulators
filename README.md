@@ -280,6 +280,8 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 [Document Emulator](https://github.com/sourceduty/Document_Emulator)
 <br>
 [Text Emulator](https://github.com/sourceduty/Text_Emulator)
+<br>
+[Live Simulation](https://github.com/sourceduty/Live_Simulation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
