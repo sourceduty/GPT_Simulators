@@ -76,7 +76,6 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 19. [Amazonian](https://github.com/sourceduty/Amazonian)
 20. [Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
 21. [Cryptography Simulator](https://github.com/sourceduty/Cryptography_Simulator)
-22. [Battery Management](https://github.com/sourceduty/Battery_Management)
 
 <br>
 </details>
@@ -183,6 +182,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 5. [Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
 6. [Electricity Game](https://github.com/sourceduty/Electricity_Game)
 7. [Hardware Simulator](https://github.com/sourceduty/Hardware_Simulator)
+8. [Battery Management](https://github.com/sourceduty/Battery_Management)
 
 <br>
 </details>
