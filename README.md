@@ -52,233 +52,156 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 
 ***
 
-[Deep Learning Simulator](https://chat.openai.com/g/g-PaJTxQKRT-deep-learning-simulator)
-<br>
-[Trading Bot Simulator](https://chat.openai.com/g/g-OCgWKt0lF-trading-bot-simulator)
-<br>
-[UI Design Simulator](https://chat.openai.com/g/g-s0W8h8YsH-ui-design-simulator)
-<br>
-[Data Simulator](https://chat.openai.com/g/g-mn28bwTPD-data-simulator)
-<br>
-[Computer Simulator](https://chat.openai.com/g/g-Rc1vOXWRb-computer-simulator)
-<br>
-[Python Simulator](https://chat.openai.com/g/g-NLUSBfccY-python-simulator)
-<br>
-[Business Simulator](https://chat.openai.com/g/g-7cv0RgBVm-business-simulator)
-<br>
-[Construction Simulator](https://chat.openai.com/g/g-HJGQpAmKa-construction-simulator)
-<br>
-[Software Simulator](https://chat.openai.com/g/g-WbqD34jeu-software-simulator)
-<br>
-[Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
-<br>
-[Probability Simulator](https://chat.openai.com/g/g-KLSVMcE6y-probability-simulator)
-<br>
-[Accounting Simulator](https://chat.openai.com/g/g-K2HxhpHuC-accounting-simulator)
-<br>
-[Aerospace Simulator](https://chat.openai.com/g/g-s2W0IfFR6-aerospace-simulator)
-<br>
-[Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
-<br>
-[Semiconductor Simulator](https://chat.openai.com/g/g-LNpy4y0uU-semiconductor-simulator)
-<br>
-[Weather Simulator](https://chat.openai.com/g/g-c1JKGF0qm-weather-simulator)
-<br>
-[Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
-<br>
-[Society Simulator](https://chat.openai.com/g/g-6JmbafNlt-society-simulator)
-<br>
-[Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
-<br>
-[Chemisty Simulator](https://chat.openai.com/g/g-pnIVeOtxZ-chemistry-simulator)
-<br>
-[Statistic Simulator](https://chat.openai.com/g/g-BuaPnD6NF-statistic-simulator)
-<br>
-[Investing Simulator](https://chat.openai.com/g/g-6R6ZAP8yh-investing-simulator)
-<br>
-[Stock Market Simulator](https://chat.openai.com/g/g-YOR2U66rf-stock-market-simulator)
-<br>
-[ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator)
-<br>
-[Luxury Simulator](https://chat.openai.com/g/g-HPWQSNXna-luxury-simulator)
-<br>
-[Chat Simulator](https://chat.openai.com/g/g-pVviDoA7V-chat-simulator)
-<br>
-[History Simulator](https://chat.openai.com/g/g-PKc9JScH2-history-simulator)
-<br>
-[Opinion Simulator](https://chat.openai.com/g/g-JKk9E0ePf-opinion-simulator)
-<br>
-[Court Simulator](https://chat.openai.com/g/g-e4ANQnhYr-court-simulator)
-<br>
-[Diplomatic Simulator](https://chat.openai.com/g/g-xhsONox3U-diplomatic-simulator)
-<br>
-[Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
-<br>
-[Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
-<br>
-[Legal Simulator](https://chat.openai.com/g/g-eXzFPOk9n-legal-simulator)
-<br>
-[Social Influence Simulator](https://chat.openai.com/g/g-J0k1yLqEH-social-influence-simulator)
-<br>
-[Event Model Simulator](https://chat.openai.com/g/g-Zr15o3jSa-event-model-simulator)
-<br>
-[Philosophy Simulator](https://chat.openai.com/g/g-DgaNOkP7Y-philosophy-simulator)
-<br>
-[Industry Simulator](https://chat.openai.com/g/g-hCoAwBYlv-industry-simulator)
-<br>
-[Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
-<br>
-[Factory Simulator](https://chat.openai.com/g/g-tYRlt7b2g-factory-simulator)
-<br>
-[Transport Simulator](https://chat.openai.com/g/g-TuP3NAsRB-transport-simulator)
-<br>
-[Inspiration Simulator](https://chat.openai.com/g/g-DR4W6zJTh-inspiration-simulator)
-<br>
-[Internet Simulator](https://chat.openai.com/g/g-0lDhHX6AP-internet-simulator)
-<br>
-[Political Simulator](https://chat.openai.com/g/g-4GT3x5ITg-political-simulator)
-<br>
-[Theoretical Science Simulator](https://chat.openai.com/g/g-5tJWfchOR-theoretical-science-simulator)
-<br>
-[Quantum Chemical Simulator](https://chat.openai.com/g/g-VBsCXIwli-quantum-chemical-simulator)
-<br>
-[Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
-<br>
-[Public Simulator](https://chat.openai.com/g/g-HJp62OrcF-public-simulator)
-<br>
-[Drama Simulator](https://chatgpt.com/g/g-dwGLkpKB8-drama-simulator)
-<br>
-[Security Simulator](https://chatgpt.com/g/g-Q7tunVbct-security-simulator)
-<br>
-[E-commerce Simulator](https://chatgpt.com/g/g-OzfrZnCTe-e-commerce-simulator)
-<br>
-[Blockchain Simulator](https://chatgpt.com/g/g-fViy4gq9B-blockchain-simulator)
-<br>
-[Power Grid Simulator](https://chatgpt.com/g/g-K7CExFenf-energy-grid-simulator)
-<br>
-[Market Simulator](https://chatgpt.com/g/g-uX5Aupr1a-market-simulator)
-<br>
-[Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator)
-<br>
-[GPT Simulator](https://chatgpt.com/g/g-0INqE5Pxk-gpt-simulator)
-<br>
-[Geology Simulator](https://github.com/sourceduty/Geology_Simulator)
-<br>
-[Citizen Simulator](https://chatgpt.com/g/g-BhgpoIUJO-citizen-simulator)
-<br>
-[Batch File Simulator](https://chatgpt.com/g/g-blvvJBL25-batch-file-simulator)
-<br>
-[Biological Simulation](https://chatgpt.com/g/g-kO0vMMo1M-biological-simulator)
-<br>
-[History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
-<br>
-[Museum Simulator](https://github.com/sourceduty/Museum_Simulator)
-<br>
-[Economy Simulator](https://chatgpt.com/g/g-S3MAXtBUv-economy-simulator)
-<br>
-[Burj Khalifa Simulator](https://github.com/sourceduty/Burj_Khalifa_Simulator)
-<br>
-[UN Simulator](https://github.com/sourceduty/UN_Simulator)
-<br>
-[Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
-<br>
-[Atomic Simulator](https://chatgpt.com/g/g-QYk4U8bhT-atomic-simulator)
-<br>
-[Boss Simulator](https://github.com/sourceduty/Simulated_Boss)
-<br>
-[Marine Simulator](https://github.com/sourceduty/Marine_Simulator)
-<br>
-[Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
-<br>
-[Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
-<br>
-[OBD2 Simulator](https://github.com/sourceduty/OBD2_Simulator)
-<br>
-[Ship Fleet and Asset Simulator](https://github.com/sourceduty/Ship_Fleet-Asset_Simulator)
-<br>
-[Cargowise Simulator](https://github.com/sourceduty/Cargowise_Simulator)
-<br>
-[Tractor Interface](https://github.com/sourceduty/Tractor_Interface)
-<br>
-[Space Terminal](https://github.com/sourceduty/Space_Terminal)
-<br>
-[Combinatorics Simulator](https://chatgpt.com/g/g-zGMgmTVdX-combinatorics-simulator)
-<br>
-[Microbiology Simulator](https://github.com/sourceduty/Microbiology_Simulator)
-<br>
-[Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator)
-<br>
-[Dragon's Den](https://github.com/sourceduty/Dragons_Den)
-<br>
-[Apple II Sumlator](https://chatgpt.com/g/g-ci1HVmwRL-apple-ii-simulator)
-<br>
-[Trivia Showdown](https://chatgpt.com/g/g-zkcmBhM5B-trivia-showdown)
-<br>
-[Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)
-<br>
-[Automation Sim](https://chatgpt.com/g/g-MAgEwBC4g-automation-sim)
-<br>
-[Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
-<br>
-[Neuromorphic Simulator](https://chatgpt.com/g/g-bm1sYNAtU-neuromorphic-simulator)
-<br>
-[Thinking As](https://github.com/sourceduty/Thinking_As)
-<br>
-[Spacetime Simulator](https://github.com/sourceduty/Spacetime_Simulator)
-<br>
-[Accent Simulator](https://chatgpt.com/g/g-2DXQ4VWtH-accent-simulator)
-<br>
-[Ion Simulator](https://github.com/sourceduty/Ion_Simulator)
-<br>
-[Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
-<br>
-[Virtual HPC Simulator](https://github.com/sourceduty/Virtual_HPC_Simulator)
-<br>
-[Nuclear Chemistry Simulator](https://github.com/sourceduty/Nuclear_Chemistry_Simulator)
-<br>
-[Mechanical Simulator](https://github.com/sourceduty/Mechanical_Simulator)
-<br>
-[Neurorobotic Simulator](https://chatgpt.com/g/g-jvs99FMz2-neurorobotic-simulator)
-<br>
-[Biden Simulator](https://github.com/sourceduty/Biden_Simulator)
-<br>
-[World Leader Sim](https://github.com/sourceduty/World_Leader_Sim)
-<br>
-[Task Manager Sim](https://github.com/sourceduty/Task_Manager_Sim)
-<br>
-[Pi OS Simulator](https://github.com/sourceduty/Pi_OS_Simulator)
-<br>
-[Amazonian](https://github.com/sourceduty/Amazonian)
-<br>
-[EV Simulator](https://github.com/sourceduty/EV_Simulator)
-<br>
-[Airport Simulator](https://github.com/sourceduty/Airport_Simulator)
-<br>
-[Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
-<br>
-[Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
-<br>
-[Ship Captain Simulator](https://github.com/sourceduty/Ship_Captain_Simulator)
-<br>
-[Titanic Simulator](https://github.com/sourceduty/Titanic_Simulator)
-<br>
-[Skynet Simulator](https://github.com/sourceduty/Skynet_Simulator)
-<br>
-[Geometry Simulator](https://github.com/sourceduty/Geometry_Simulator)
-<br>
-[Electricity Game](https://github.com/sourceduty/Electricity_Game)
-<br>
-[Cryptocurrency Simulator](https://github.com/sourceduty/Cryptocurrency_Simulator)
-<br>
-[Social Simulator](https://chatgpt.com/g/g-exqN30iRd-social-simulator)
-<br>
-[Hardware Simulator](https://github.com/sourceduty/Hardware_Simulator)
-<br>
-[Social Norms Simulator](https://github.com/sourceduty/Social_Norms_Simulator)
-<br>
-[Cryptography Simulator](https://github.com/sourceduty/Cryptography_Simulator)
-<br>
-[Genetic Simulator](https://github.com/sourceduty/Genetic_Simulator)
+<details><summary>Programming</summary>
+<br>
+
+1. [Deep Learning Simulator](https://chat.openai.com/g/g-PaJTxQKRT-deep-learning-simulator)
+2. [UI Design Simulator](https://chat.openai.com/g/g-s0W8h8YsH-ui-design-simulator)
+3. [Computer Simulator](https://chat.openai.com/g/g-Rc1vOXWRb-computer-simulator)
+4. [Python Simulator](https://chat.openai.com/g/g-NLUSBfccY-python-simulator)
+5. [Software Simulator](https://chat.openai.com/g/g-WbqD34jeu-software-simulator)
+6. [Blockchain Simulator](https://chatgpt.com/g/g-fViy4gq9B-blockchain-simulator)
+7. [GPT Simulator](https://chatgpt.com/g/g-0INqE5Pxk-gpt-simulator)
+8. [Batch File Simulator](https://chatgpt.com/g/g-blvvJBL25-batch-file-simulator)
+9. [Linux OS Simulator](https://github.com/sourceduty/Linux_OS_Simulator)
+10. [Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
+11. [OBD2 Simulator](https://github.com/sourceduty/OBD2_Simulator)
+12. [Tractor Interface](https://github.com/sourceduty/Tractor_Interface)
+13. [Space Terminal](https://github.com/sourceduty/Space_Terminal)
+14. [Apple II Sumlator](https://chatgpt.com/g/g-ci1HVmwRL-apple-ii-simulator)
+15. [Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)\
+16. [Automation Sim](https://chatgpt.com/g/g-MAgEwBC4g-automation-sim)
+17. [Task Manager Sim](https://github.com/sourceduty/Task_Manager_Sim)
+18. [Pi OS Simulator](https://github.com/sourceduty/Pi_OS_Simulator)
+19. [Amazonian](https://github.com/sourceduty/Amazonian)
+20. [Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
+21. [Cryptography Simulator](https://github.com/sourceduty/Cryptography_Simulator)
+
+<br>
+</details>
+<details><summary>Business & Finance</summary>
+<br>
+
+1. [Trading Bot Simulator](https://chat.openai.com/g/g-OCgWKt0lF-trading-bot-simulator)
+2. [Business Simulator](https://chat.openai.com/g/g-7cv0RgBVm-business-simulator)
+3. [Construction Simulator](https://chat.openai.com/g/g-HJGQpAmKa-construction-simulator)
+4. [Investing Simulator](https://chat.openai.com/g/g-6R6ZAP8yh-investing-simulator)
+5. [Stock Market Simulator](https://chat.openai.com/g/g-YOR2U66rf-stock-market-simulator)
+6. [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator)
+7. [Industry Simulator](https://chat.openai.com/g/g-hCoAwBYlv-industry-simulator)
+8. [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
+9. [Factory Simulator](https://chat.openai.com/g/g-tYRlt7b2g-factory-simulator)
+10. [E-commerce Simulator](https://chatgpt.com/g/g-OzfrZnCTe-e-commerce-simulator)
+11. [Market Simulator](https://chatgpt.com/g/g-uX5Aupr1a-market-simulator)
+12. [Economy Simulator](https://chatgpt.com/g/g-S3MAXtBUv-economy-simulator)
+13. [Boss Simulator](https://github.com/sourceduty/Simulated_Boss)
+14. [Ship Fleet and Asset Simulator](https://github.com/sourceduty/Ship_Fleet-Asset_Simulator)
+15. [Cargowise Simulator](https://github.com/sourceduty/Cargowise_Simulator)
+16. [Cryptocurrency Simulator](https://github.com/sourceduty/Cryptocurrency_Simulator)
+
+<br>
+</details>
+<details><summary>Data & Research</summary>
+<br>
+
+1. [Data Simulator](https://chat.openai.com/g/g-mn28bwTPD-data-simulator)
+2. [History Simulator](https://chat.openai.com/g/g-PKc9JScH2-history-simulator)
+3. [Opinion Simulator](https://chat.openai.com/g/g-JKk9E0ePf-opinion-simulator)
+4. [Legal Simulator](https://chat.openai.com/g/g-eXzFPOk9n-legal-simulator)
+5. [Internet Simulator](https://chat.openai.com/g/g-0lDhHX6AP-internet-simulator)
+6. [Public Simulator](https://chat.openai.com/g/g-HJp62OrcF-public-simulator)
+7. [Security Simulator](https://chatgpt.com/g/g-Q7tunVbct-security-simulator)
+8. [History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
+9. [Museum Simulator](https://github.com/sourceduty/Museum_Simulator)
+10. [Biden Simulator](https://github.com/sourceduty/Biden_Simulator)
+11. [Airport Simulator](https://github.com/sourceduty/Airport_Simulator)
+
+<br>
+</details>
+<details><summary>Math & Science</summary>
+<br>
+
+1. [Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
+2. [Accounting Simulator](https://chat.openai.com/g/g-K2HxhpHuC-accounting-simulator)
+3. [Probability Simulator](https://chat.openai.com/g/g-KLSVMcE6y-probability-simulator)
+4. [Aerospace Simulator](https://chat.openai.com/g/g-s2W0IfFR6-aerospace-simulator)
+5. [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
+6. [Weather Simulator](https://chat.openai.com/g/g-c1JKGF0qm-weather-simulator)
+7. [Society Simulator](https://chat.openai.com/g/g-6JmbafNlt-society-simulator)
+8. [Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
+9. [Chemisty Simulator](https://chat.openai.com/g/g-pnIVeOtxZ-chemistry-simulator)
+10. [Statistic Simulator](https://chat.openai.com/g/g-BuaPnD6NF-statistic-simulator)
+11. [Court Simulator](https://chat.openai.com/g/g-e4ANQnhYr-court-simulator)
+12. [Diplomatic Simulator](https://chat.openai.com/g/g-xhsONox3U-diplomatic-simulator)
+13. [Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
+14. [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
+15. [Social Influence Simulator](https://chat.openai.com/g/g-J0k1yLqEH-social-influence-simulator)
+16. [Philosophy Simulator](https://chat.openai.com/g/g-DgaNOkP7Y-philosophy-simulator)
+17. [Transport Simulator](https://chat.openai.com/g/g-TuP3NAsRB-transport-simulator)
+18. [Political Simulator](https://chat.openai.com/g/g-4GT3x5ITg-political-simulator)
+19. [Theoretical Science Simulator](https://chat.openai.com/g/g-5tJWfchOR-theoretical-science-simulator)
+20. [Quantum Chemical Simulator](https://chat.openai.com/g/g-VBsCXIwli-quantum-chemical-simulator)
+21. [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
+22. [Drama Simulator](https://chatgpt.com/g/g-dwGLkpKB8-drama-simulator)
+23. [Power Grid Simulator](https://chatgpt.com/g/g-K7CExFenf-energy-grid-simulator)
+24. [Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator)
+25. [Geology Simulator](https://github.com/sourceduty/Geology_Simulator)
+26. [Citizen Simulator](https://chatgpt.com/g/g-BhgpoIUJO-citizen-simulator)
+27. [Biological Simulation](https://chatgpt.com/g/g-kO0vMMo1M-biological-simulator)
+28. [UN Simulator](https://github.com/sourceduty/UN_Simulator)
+29. [Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
+30. [Atomic Simulator](https://chatgpt.com/g/g-QYk4U8bhT-atomic-simulator)
+31. [Marine Simulator](https://github.com/sourceduty/Marine_Simulator)
+32. [Combinatorics Simulator](https://chatgpt.com/g/g-zGMgmTVdX-combinatorics-simulator)
+33. [Microbiology Simulator](https://github.com/sourceduty/Microbiology_Simulator)
+34. [Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator)
+35. [Neuromorphic Simulator](https://chatgpt.com/g/g-bm1sYNAtU-neuromorphic-simulator)
+36. [Spacetime Simulator](https://github.com/sourceduty/Spacetime_Simulator)
+37. [Accent Simulator](https://chatgpt.com/g/g-2DXQ4VWtH-accent-simulator)
+38. [Ion Simulator](https://github.com/sourceduty/Ion_Simulator)
+39. [Particle Simulator](https://github.com/sourceduty/Particle_Simulator)
+40. [Virtual HPC Simulator](https://github.com/sourceduty/Virtual_HPC_Simulator)
+41. [Nuclear Chemistry Simulator](https://github.com/sourceduty/Nuclear_Chemistry_Simulator)
+42. [Mechanical Simulator](https://github.com/sourceduty/Mechanical_Simulator)
+43. [Neurorobotic Simulator](https://chatgpt.com/g/g-jvs99FMz2-neurorobotic-simulator)
+44. [World Leader Sim](https://github.com/sourceduty/World_Leader_Sim)
+45. [Geometry Simulator](https://github.com/sourceduty/Geometry_Simulator)
+46. [Social Simulator](https://chatgpt.com/g/g-exqN30iRd-social-simulator)
+47. [Social Norms Simulator](https://github.com/sourceduty/Social_Norms_Simulator)
+48. [Genetic Simulator](https://github.com/sourceduty/Genetic_Simulator)
+
+<br>
+</details>
+<details><summary>Electronics</summary>
+<br>
+
+1. [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
+2. [Semiconductor Simulator](https://chat.openai.com/g/g-LNpy4y0uU-semiconductor-simulator)
+3. [Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
+4. [EV Simulator](https://github.com/sourceduty/EV_Simulator)
+5. [Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
+6. [Electricity Game](https://github.com/sourceduty/Electricity_Game)
+7. [Hardware Simulator](https://github.com/sourceduty/Hardware_Simulator)
+
+<br>
+</details>
+<details><summary>Fun</summary>
+<br>
+
+1. [Luxury Simulator](https://chat.openai.com/g/g-HPWQSNXna-luxury-simulator)
+2. [Chat Simulator](https://chat.openai.com/g/g-pVviDoA7V-chat-simulator)
+3. [Event Model Simulator](https://chat.openai.com/g/g-Zr15o3jSa-event-model-simulator)
+4. [Inspiration Simulator](https://chat.openai.com/g/g-DR4W6zJTh-inspiration-simulator)
+5. [Burj Khalifa Simulator](https://github.com/sourceduty/Burj_Khalifa_Simulator)
+6. [Dragon's Den](https://github.com/sourceduty/Dragons_Den)
+7. [Trivia Showdown](https://chatgpt.com/g/g-zkcmBhM5B-trivia-showdown)
+8. [Thinking As](https://github.com/sourceduty/Thinking_As)
+9. [Ship Captain Simulator](https://github.com/sourceduty/Ship_Captain_Simulator)
+10. [Titanic Simulator](https://github.com/sourceduty/Titanic_Simulator)
+11. [Skynet Simulator](https://github.com/sourceduty/Skynet_Simulator)
+
+<br>
+</details>
 
 #
 ### Related Links
