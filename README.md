@@ -69,7 +69,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 12. [Tractor Interface](https://github.com/sourceduty/Tractor_Interface)
 13. [Space Terminal](https://github.com/sourceduty/Space_Terminal)
 14. [Apple II Sumlator](https://chatgpt.com/g/g-ci1HVmwRL-apple-ii-simulator)
-15. [Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)\
+15. [Torrent Simulator](https://github.com/sourceduty/Torrent_Simulator)
 16. [Automation Sim](https://chatgpt.com/g/g-MAgEwBC4g-automation-sim)
 17. [Task Manager Sim](https://github.com/sourceduty/Task_Manager_Sim)
 18. [Pi OS Simulator](https://github.com/sourceduty/Pi_OS_Simulator)
