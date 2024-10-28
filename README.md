@@ -45,7 +45,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 
 <div align="center">
 
-| Sourceduty currently has `121` custom built simulation GPTs listed below. |
+| Sourceduty currently has `122` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -76,6 +76,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 19. [Amazonian](https://github.com/sourceduty/Amazonian)
 20. [Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
 21. [Cryptography Simulator](https://github.com/sourceduty/Cryptography_Simulator)
+22. [Network Simulator](https://github.com/sourceduty/Network_Simulator)
 
 <br>
 </details>
