@@ -57,7 +57,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 
 <div align="center">
 
-| Sourceduty currently has `123` custom built simulation GPTs listed below. |
+| Sourceduty currently has `124` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -112,6 +112,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 14. [Ship Fleet and Asset Simulator](https://github.com/sourceduty/Ship_Fleet-Asset_Simulator)
 15. [Cargowise Simulator](https://github.com/sourceduty/Cargowise_Simulator)
 16. [Cryptocurrency Simulator](https://github.com/sourceduty/Cryptocurrency_Simulator)
+17. [ATM Simulator](https://github.com/sourceduty/ATM_Simulator)
 
 <br>
 </details>
