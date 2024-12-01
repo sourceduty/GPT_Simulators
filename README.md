@@ -75,7 +75,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 
 <div align="center">
 
-| Sourceduty currently has `125` custom built simulation GPTs listed below. |
+| Sourceduty currently has `126` custom built simulation GPTs listed below. |
 |-|
 
 </div>
@@ -204,6 +204,7 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 47. [Social Norms Simulator](https://github.com/sourceduty/Social_Norms_Simulator)
 48. [Genetic Simulator](https://github.com/sourceduty/Genetic_Simulator)
 49. [Synthetic Life Simulator](https://github.com/sourceduty/Synthetic_Life_Simulator)
+50. [First Aid Simulator](https://github.com/sourceduty/First_Aid_Sim)
 
 <br>
 </details>
