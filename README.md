@@ -274,6 +274,8 @@ Human-AI innovation using custom GPTs for simulations is revolutionizing how com
 [Live Simulation](https://github.com/sourceduty/Live_Simulation)
 <br>
 [Chronosimulation](https://github.com/sourceduty/Chronosimulation)
+<br>
+[Hardware Twin](https://github.com/sourceduty/Hardware_Twin)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
